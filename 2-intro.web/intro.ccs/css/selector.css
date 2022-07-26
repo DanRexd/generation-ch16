@@ -1,0 +1,11 @@
+div  {
+    border: red 5px solid;
+    margin: 10px;
+    padding: 20px;
+}
+
+div  p{     /*Solo afectara a los que esten dentro del div y que esten dentro de li que es una lista */
+    color: red;   /* Selecotor tipo hijo ">" afecta a todo lo que esté adentro del elemento padre */
+                     /*   + afecta a lo que está junto al primer elemento padre, pero no a su contenido */
+                     /*Selector hermano E ~ F osea que afecta a todo lo que sigue de elemnto padre*/
+}
