@@ -1,14 +1,53 @@
 
+h1 {
+    color: aliceblue;
+}
 
+h2 {
+    color: aliceblue;
+}
 
+img {
+    /* display:inline;
+    position: static; */
+    /* height: 300px;   
+    left: 900px;
+    bottom: 235px; */
+    border-radius: 50px;
+ }
+
+.el-1{
+    position: static;
+    height: 100px;
+    width: auto;
+    right: 800px;
+}
+
+.el-2{
+    position: absolute;
+    height: 10px;
+    width: auto;
+    top: 500;
+    right: 550px;
+
+ }
 
 header{
-    background-color: grey;
-    height: auto;
+    background-color: rgba(0, 0, 0, 0.903);
+    height: 300px;
     width: auto;
 
 }
- img {
-    display:inline;
-    height: 150px;
- }
+
+main { 
+    background-color: gray;
+    height: 700px;
+    width: auto;
+
+}
+
+footer{
+    background-color: rgba(0, 0, 0, 0.599);
+    height: 300px;
+    width: auto;
+}
