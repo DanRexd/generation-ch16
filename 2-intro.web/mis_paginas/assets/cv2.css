@@ -1,0 +1,71 @@
+
+
+
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+h1{
+    
+    font-size: 50px;
+    color: aliceblue;
+
+}
+
+h2{
+    font-size: 25px;
+    
+    color: aliceblue;
+}
+
+nav{
+    background-color: rgba(0, 0, 0, 0.855);
+    height: 300px;
+    display: flex;
+    justify-content:space-evenly;
+    
+
+    
+}
+
+
+.imagenes{
+    display: flex;
+    
+
+
+}  
+     
+
+
+
+.texto{
+    display: inline;
+    margin-top: 20px;
+    /* margin-left: 30px; */
+    
+}
+
+
+.ipn{
+    height: 300px;
+    width: 300px;
+    display: flex
+}
+
+.esia{
+    height: 300px;
+    width: auto;
+    display: flex;
+}
+
+.foto{
+    border-radius: 50%;
+    height: 300px;
+    width: 300px;
+    display: flex;
+    
+}
+
