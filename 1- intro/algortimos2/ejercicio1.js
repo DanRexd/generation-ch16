@@ -2,13 +2,13 @@
 const personas = ["Maria", "Dani", "Luis", "Juan", "Camila"];
  console.log(personas);
 
- personas.splice(1,1); // (1 es el elemento numero 1, 1 es la cantodad de elementos que se vana a borrr apartir del seleccionado)
+  personas.splice(1,1); // (1 es el elemento numero 1, 1 es la cantodad de elementos que se vana a borrr apartir del seleccionado)
 console.log(personas);
 
 personas.splice(2,1);
 console.log(personas);
 
-personas.unshift ("Luis");
+/* personas.unshift ("Luis");
 personas.splice (2,1);
 console.log(personas);
 
@@ -21,3 +21,4 @@ console.log(personas.indexOf ("Maria")); //indexOf muestra la posicion del prime
 //Si buscas un elemento que no exite va imprimer un "-1"
 
 console.log(personas.indexOf ("Daniel"));
+  */ */
