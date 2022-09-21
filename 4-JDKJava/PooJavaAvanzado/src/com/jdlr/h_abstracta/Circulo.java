@@ -9,10 +9,10 @@ public class Circulo extends FigurasGeometricas {
         return (float) (Math.PI * Math.pow(radio,2));
     }
 
-    public Circulo() {
-    }
+
 
     public Circulo(float radio){
+        super("Circulo");
         this.radio = radio;
     }
 

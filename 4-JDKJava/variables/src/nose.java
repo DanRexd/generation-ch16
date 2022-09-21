@@ -1,2 +1,4 @@
-package variables.src;public class nose {
+package variables.src;
+
+public class nose {
 }

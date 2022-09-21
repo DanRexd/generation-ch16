@@ -1,2 +1,4 @@
-package untitled.src;public class OperadoresRacionales {
+package untitled.src;
+
+public class OperadoresRacionales {
 }

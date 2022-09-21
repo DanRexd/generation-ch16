@@ -7,7 +7,7 @@ Crear funciones para realizar los cálculos
 Mostrar los resultados mediante alertas
  */
 
-
+/* 
 function ctof (grados){
     return (grados * (9 / 5) + 32);
 }
@@ -43,4 +43,7 @@ else if (unidades === "K"){
 }
 else {1
     alert("Opcion no valida")
-}
+} */
+
+let y;
+console.log(y === null);
